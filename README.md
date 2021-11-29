@@ -60,6 +60,8 @@ Along with topic name, I've also included link where you can read about it. Furt
 
 [SMTP?](https://www.javatpoint.com/simple-mail-transfer-protocol), [POP3](https://www.javatpoint.com/pop-protocol), [differences](https://www.hostinger.in/tutorials/email/pop3-imap-smtp-protocols-explained-ports). Also check OSI notes along with Endurance concepts.
 
+[DHCP](https://www.geeksforgeeks.org/dynamic-host-configuration-protocol-dhcp/)
+
 [CSMA/CD and CSMA/CA?](https://www.geeksforgeeks.org/carrier-sense-multiple-access-csma/)
 
 [Routing Information Protocol - RIP](https://www.geeksforgeeks.org/routing-information-protocol-rip/), [How routing works on internet?](https://user3141592.medium.com/how-does-the-internet-work-edc2e22e7eb8), [link2 on this](https://cromwell-intl.com/networking/routing.html)
