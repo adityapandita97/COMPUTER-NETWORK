@@ -1,4 +1,4 @@
-# COMPUTER-NETWORK- This is a repo for the preparation of Networking questions.
+# COMPUTER-NETWORKS-Questions
 
 Along with topic name, I've also included link where you can read about it. Further start from 1st topic and then keep on moving to next topics. Don't skip the topics in between. I've tried to keep the list in sorted order of their importance/relevance/more probability of being asked in interviews. 
 
