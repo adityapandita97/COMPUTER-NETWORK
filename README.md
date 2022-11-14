@@ -58,7 +58,7 @@ Along with topic name, I've also included link where you can read about it. Furt
 
 [Error control,Flow control](https://www.javatpoint.com/data-link-controls), [Error control techniques?](https://www.geeksforgeeks.org/error-control-in-data-link-layer/)
 
-[SMTP?](https://www.javatpoint.com/simple-mail-transfer-protocol), [POP3](https://www.javatpoint.com/pop-protocol), [differences](https://www.hostinger.in/tutorials/email/pop3-imap-smtp-protocols-explained-ports). Also check OSI notes along with Endurance concepts.
+[SMTP?](https://www.javatpoint.com/simple-mail-transfer-protocol), [POP3](https://www.javatpoint.com/pop-protocol), [differences](https://www.hostinger.in/tutorials/email/pop3-imap-smtp-protocols-explained-ports).
 
 [DHCP](https://www.geeksforgeeks.org/dynamic-host-configuration-protocol-dhcp/)
 
