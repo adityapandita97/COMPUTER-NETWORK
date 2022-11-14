@@ -36,7 +36,7 @@ Along with topic name, I've also included link where you can read about it. Furt
 
 [Gateways?](https://www.tutorialspoint.com/what-are-gateways-in-computer-network)
 
-[subnetting](https://www.guru99.com/subnetting-subnet-mask.html), subnet mask? - refer aditya's handmade notes, [link2 on this](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking), more details including CIDR
+[subnetting](https://www.guru99.com/subnetting-subnet-mask.html), subnet mask? -handmade notes, [link2 on this](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking), more details including CIDR
 
 [Encryption, what is it? what's the importance?](https://www.javatpoint.com/computer-network-privacy)
 
